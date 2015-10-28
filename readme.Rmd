@@ -1,0 +1,7 @@
+---
+title: "README"
+author: "yingbongbong"
+date: "2015¦~10¤ë28¤é"
+output: html_document
+---
+# README - Getting and Cleaning Data - Project
