@@ -18,6 +18,6 @@ http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartpho
 
 ## Files within this repository
 
-* README.md This file, explaining what is within the repository and the project task
-* run_analysis.R File containing the R script code that can be run to reproduce the tidy_data_set.txt
+* >README.md> This file, explaining what is within the repository and the project task
+* run_analysis.R File containing the R script code that can be run to reproduce the >tidy_data_set.txt<
 
