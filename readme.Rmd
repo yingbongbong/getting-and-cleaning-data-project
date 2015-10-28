@@ -5,3 +5,11 @@ date: "2015¦~10¤ë28¤é"
 output: html_document
 ---
 # README - Getting and Cleaning Data - Project
+
+This Github repository stores the project submission for Yingbongbong.
+
+## Project Task
+
+To collect, prepare and clean an existing data set.
+
+## Original Project Instructions
