@@ -13,3 +13,6 @@ This Github repository stores the project submission for Yingbongbong.
 To collect, prepare and clean an existing data set.
 
 ## Original Project Instructions
+
+http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
+
